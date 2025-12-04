@@ -1,0 +1,2 @@
+# komp-arch
+ataskaita
